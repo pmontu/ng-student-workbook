@@ -1,1 +1,0 @@
-web: gunicorn workbook.wsgi --log-file -
